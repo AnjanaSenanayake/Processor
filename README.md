@@ -1,4 +1,8 @@
 # Processor
+
+Credits:
+Description by- Deepal Thennekoon
+
 An implementation of a processor with basic components coded in verilog
 A simple 8-bit single cycle processor using Verilog HDL, which includes an ALU, a register file and other control component.
 
